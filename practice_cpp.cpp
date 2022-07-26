@@ -1,6 +1,8 @@
-#include<iostream>
-using namespace std;
-int main(){
+#include<iostream> \\WAP to find ascii number of a symbol
+using namespace std; 
+int main() 
+
+{
     char symbol = 'A';
     int ascii_number = symbol ;
     cout<< ascii_number;
